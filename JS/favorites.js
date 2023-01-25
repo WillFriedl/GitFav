@@ -46,8 +46,6 @@ class Favorites {
     }
 }
 
-// classe que vai criar a visualizacao e eventos do HTML
-
 export class FavoritesView extends Favorites {
     constructor(root) {
         super(root)
